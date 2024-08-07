@@ -1,0 +1,8 @@
+p1, 
+p8,
+p10,
+p13 full paper,
+p16 full paper,
+p21 for algorithm 
+p23 for background studies, find a table in this paper,
+p24 for some other sections 
